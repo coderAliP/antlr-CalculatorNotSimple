@@ -1,1 +1,1 @@
-a easy and simple calculator with antler
+a easy and simple calculator with antlr
